@@ -1,0 +1,118 @@
+{
+  "name": "patient-samples",
+  "title": "Patient tree view",
+  "children": [
+    {
+      "id": "10001",
+      "name": "EX-PATIENT-01",
+      "group": "patient",
+      "children": [
+        {
+          "id": "10001.1",
+          "name": "EX-SAMPLE-01.1",
+          "group": "sample",
+          "children": [
+            {
+              "id": "10001.1.1",
+              "name": "EX-LAB-01.1.1",
+              "group": "lab"
+            },
+            {
+              "id": "10001.1.2",
+              "name": "EX-LAB-01.1.2",
+              "group": "lab"
+            }
+          ]
+        },
+        {
+          "id": "10001.2",
+          "name": "EX-SAMPLE-01.2",
+          "group": "sample",
+          "children": [
+            {
+              "id": "10001.2.1",
+              "name": "EX-LAB-01.2.1",
+              "group": "lab"
+            },
+            {
+              "id": "10001.2.2",
+              "name": "EX-LAB-01.2.2",
+              "group": "lab"
+            },
+            {
+              "id": "10001.2.3",
+              "name": "EX-LAB-01.2.3",
+              "group": "lab"
+            },
+            {
+              "id": "10001.2.4",
+              "name": "EX-LAB-01.2.4",
+              "group": "lab"
+            }
+          ]
+        },
+        {
+          "id": "10001.3",
+          "name": "EX-SAMPLE-01.3",
+          "group": "patient"
+        }
+      ]
+    },
+    {
+      "id": "10002",
+      "name": "EX-PATIENT-02",
+      "group": "patient",
+      "children": [
+        {
+          "id": "10002.1",
+          "name": "EX-SAMPLE-02.1",
+          "group": "sample",
+          "children": [
+            {
+              "id": "10002.1.1",
+              "name": "EX-LAB-02.1.1",
+              "group": "lab"
+            }
+          ]
+        },
+        {
+          "id": "10002.2",
+          "name": "EX-SAMPLE-02.2",
+          "group": "sample"
+        },
+        {
+          "id": "10002.3",
+          "name": "EX-SAMPLE-02.3",
+          "group": "sample"
+        },
+        {
+          "id": "10002.4",
+          "name": "EX-SAMPLE-02.4",
+          "group": "sample"
+        }
+      ]
+    },
+    {
+      "id": "10003",
+      "name": "EX-PATIENT-03",
+      "group": "patient"
+    },
+    {
+      "id": "10004",
+      "name": "EX-PATIENT-04",
+      "group": "patient"
+    },
+    {
+      "id": "10005",
+      "name": "EX-PATIENT-05",
+      "group": "patient",
+      "children": [
+        {
+          "id": "10005.1",
+          "name": "EX-SAMPLE-05.1",
+          "group": "sample"
+        }
+      ]
+    }
+  ]
+}
